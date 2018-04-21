@@ -1,2 +1,3 @@
-# ImageCutter
-cut your image into pieces
+# ImageCutter </br>
+cut your image into pieces </br>
+![image](/imagecutter.png)
